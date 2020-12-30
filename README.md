@@ -1,5 +1,10 @@
 # Vos apresento o seu novo tema de 2021!🪄
-## Bruxo Monokai!🧙🏼‍♂️
+## 
+
+<div align="center" width="400px">
+    <h2>Bruxo Monokai!🧙🏼‍♂️<h2>
+    <img src="./.github/tela.png"></img>
+</div>
 
 - O que é o bruxo monokai?
 
@@ -10,3 +15,9 @@
 * Para instalar localmente basta buscar o tema `Bruxo Monokai` com Visual Studio Code, copie ou clone esse repositório para a pasta `<user home>/.vscode/extensions` ou `<user home>/.vscode-oss/extensions` e reinicie o Code.
 
 > Futuramente penso em publicar porém ainda não o farei!
+
+## Paleta de cores:
+
+<div align="center">
+    <img src="./.github/paleta.png"></img>
+</div>
