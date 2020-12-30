@@ -1,0 +1,21 @@
+{
+    "name": "bruxo-monokai",
+    "displayName": "Bruxo Monokai",
+    "description": "Para uso pessoal e para os amigos",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bruxo Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bruxo Monokai-color-theme.json"
+            }
+        ]
+    }
+}
