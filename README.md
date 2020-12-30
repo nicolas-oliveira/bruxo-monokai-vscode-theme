@@ -1,7 +1,7 @@
 # Vos apresento o seu novo tema de 2021!🪄
 ## Bruxo Monokai!🧙🏼‍♂️
 
-O que é o bruxo monokai?
+- O que é o bruxo monokai?
 É um tema que venho modificando no meu Vscode pessoal desde 2019 e baseando na sintaxe do Monokai e do Monokai Pro e escolhi por criar o meu próprio tema
 
 ### Como instalar?
