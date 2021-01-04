@@ -12,7 +12,7 @@
 
 ### Como instalar?
 
-* Para instalar localmente basta copiar ou clonar esse repositório para a pasta `<user home>/.vscode/extensions` ou `<user home>/.vscode-oss/extensions` e reinicie o Code
+* Para instalar localmente basta copiar ou clonar esse repositório para a pasta `<user home>/.vscode/extensions`, `<user home>/.vscode-oss/extensions` ou se caso esteja no windows: `%USERPROFILE%\.vscode\extensions` e reinicie o Code
 
 * Após isso pode buscar buscar o tema `Bruxo Monokai` com Visual Studio Code com `Ctrl+Shift+P` e digite `>tema` ou `>theme` se estiver em inglês.
 
