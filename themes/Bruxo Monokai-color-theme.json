@@ -532,7 +532,7 @@
 		{
 			"scope": "meta.structure.dictionary.json string.quoted.double.json",
 			"settings": {
-				"foreground": "#CFCFC2"
+				"foreground": "#ffd966c4"
 			}
 		},
 		{
@@ -1764,7 +1764,7 @@
 		{
 			"scope": "support.type.property-name",
 			"settings": {
-				"foreground": "#FCFCFA",
+				"foreground": "#a5d2ff",
 				"fontStyle": ""
 			}
 		},
