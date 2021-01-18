@@ -923,18 +923,23 @@
 		{
 			"scope": [
 				"entity.name.tag",
-				"entity.name.tag.js.jsx support.class.component.js.jsx",
 				"entity.name.tag support.class.component",
 				"source.vue support.class.component"
 			],
 			"settings": {
 				"foreground": "#FF6188"
 			}
-		},
+		},				
 		{
 			"scope": "entity.name.function.operator",
 			"settings": {
 				"foreground": "#FF6188"
+			}
+    },
+    {
+			"scope": "entity.name.tag.js.jsx support.class.component.js.jsx",
+			"settings": {
+				"foreground": "#78DCE8"
 			}
 		},
 		{
@@ -950,7 +955,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#78DCE8",
+				"foreground": "#A9DC76",
 				"fontStyle": "italic"
 			}
 		},
@@ -965,11 +970,36 @@
 			"settings": {
 				"foreground": "#A9DC76"
 			}
-		},
-		{
-			"scope": "entity.other.attribute-name.id.css",
+    },
+    {
+			"scope": [ 
+        "support.constant.font-name.css",
+        "support.constant.property-value.css",
+        "support.constant.color.w3c-standard-color-name.css"
+      ],
 			"settings": {
-				"foreground": "#FC9867"
+				"foreground": "#AB9DF2"
+			}
+    },	
+    {
+      "scope":[ 
+        "support.function.misc.css",
+        "support.function.url.css"
+      ],
+			"settings": {
+				"foreground": "#FF6188"
+			}
+		},
+    {
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#78DCE8"
+			}
+    },
+    {
+			"scope": "punctuation.definition.entity.css",
+			"settings": {
+				"foreground": "#A9DC76"
 			}
 		},
 		{
@@ -1399,8 +1429,7 @@
 		{
 			"scope": [
 				"punctuation.definition.variable",
-				"punctuation.definition.keyword.scss",
-				"punctuation.definition.entity.css"
+				"punctuation.definition.keyword.scss"
 			],
 			"settings": {
 				"foreground": "#C1C0C0"
@@ -1924,6 +1953,6 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
-		}
+    },
 	]
 }
