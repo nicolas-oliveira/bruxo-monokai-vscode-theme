@@ -1,14 +1,18 @@
 # Vos apresento o seu novo tema de 2021!🪄
-## 
 
 <div align="center" width="400px">
-    <h2>Bruxo Monokai!🧙🏼‍♂️<h2>
+    <img src="./.github/header.png"></img>
+</div>
+
+
+## O que é o bruxo monokai?
+
+É um tema que venho modificando no meu Vscode pessoal desde 2019 e baseando na sintaxe do Monokai e do Monokai Pro e escolhi por criar o meu próprio tema
+
+<div align="center" width="400px">
     <img src="./.github/tela.png"></img>
 </div>
 
-- O que é o bruxo monokai?
-
-É um tema que venho modificando no meu Vscode pessoal desde 2019 e baseando na sintaxe do Monokai e do Monokai Pro e escolhi por criar o meu próprio tema
 
 ### Como instalar?
 
