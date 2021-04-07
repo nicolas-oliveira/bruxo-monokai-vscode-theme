@@ -2,7 +2,7 @@
     "name": "bruxo-monokai",
     "displayName": "Bruxo Monokai",
     "description": "Para uso pessoal e para os amigos",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.52.0"
     },

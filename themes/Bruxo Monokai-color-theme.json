@@ -478,7 +478,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#F92672",
+				"foreground": "#FF6188",
 				"fontStyle": ""
 			}
 		},
@@ -937,7 +937,7 @@
 			}
     },
     {
-			"scope": "entity.name.tag.js.jsx support.class.component.js.jsx",
+			"scope": ["entity.name.tag.js.jsx support.class.component.js.jsx","support.class.component.tsx entity.name.tag.tsx"]
 			"settings": {
 				"foreground": "#78DCE8"
 			}
