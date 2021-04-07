@@ -1,6 +1,7 @@
 {
     "name": "bruxo-monokai",
     "displayName": "Bruxo Monokai",
+    "publisher": "nicolas-oliveira",
     "description": "Para uso pessoal e para os amigos",
     "version": "0.0.2",
     "engines": {
